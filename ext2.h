@@ -11,10 +11,6 @@
  *  Copyright (C) 1991, 1992  Linus Torvalds
  */
 
-/* MODIFIED by Bogdan Simion, Tian Ze Chen, and Karen Reid for CSC369
- * to remove unnecessary components for the assignment, clean up the code 
- * and fix some bugs */
-
 #ifndef CSC369_EXT2_FS_H
 #define CSC369_EXT2_FS_H
 
